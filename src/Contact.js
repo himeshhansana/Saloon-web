@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './App.css'; // Assuming you have some CSS styles in App.css
-import { Link } from 'react-router-dom';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
